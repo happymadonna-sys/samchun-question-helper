@@ -14,7 +14,11 @@
 
 아래 링크를 열고 **사본 만들기**를 누르면 성취기준 시트와 코드가 함께 내 구글 드라이브에 복사된다.
 
-👉 [웹앱 사본 만들기](https://docs.google.com/spreadsheets/d/시트ID/copy)
+👉 [웹앱 사본 만들기](https://docs.google.com/spreadsheets/d/1M2x4oH0TmOElGc5P9bw8XlwMU-k2GBPPh-bfLbQKv9M/copy)
+
+| 웹앱 사본 만들기 | 이 저장소 |
+| :---: | :---: |
+| <img src="qr_copy.png" width="160" alt="웹앱 사본 만들기 QR코드"> | <img src="qr_repo.png" width="160" alt="저장소 QR코드"> |
 
 1. 사본 시트에서 **확장 프로그램 → Apps Script**를 연다.
 2. **프로젝트 설정 → 스크립트 속성**에 이름 `GEMINI_KEY`, 값에 내 Gemini API 키(Google AI Studio에서 발급)를 저장한다.
